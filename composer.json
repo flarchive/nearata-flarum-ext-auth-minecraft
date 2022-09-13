@@ -1,0 +1,43 @@
+{
+    "name": "nearata/flarum-ext-auth-minecraft",
+    "description": "Allow users to login with Minecraft.",
+    "keywords": [
+        "flarum",
+        "minecraft",
+        "oauth"
+    ],
+    "type": "flarum-extension",
+    "license": "Unlicense",
+    "support": {
+        "issues": "https://github.com/Nearata/flarum-ext-auth-minecraft/issues",
+        "source": "https://github.com/Nearata/flarum-ext-auth-minecraft",
+        "forum": "https://discuss.flarum.org/d/27265"
+    },
+    "require": {
+        "flarum/core": "^1.0",
+        "illuminate/http": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Nearata",
+            "email": "nearata@protonmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nearata\\AuthMinecraft\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Minecraft Auth",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-server",
+                "backgroundColor": "#00AA00",
+                "color": "#fff"
+            }
+        }
+    }
+}
