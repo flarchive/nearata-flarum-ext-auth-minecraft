@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-auth-minecraft.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-auth-minecraft) or the [upstream repository](https://github.com/Nearata/flarum-ext-auth-minecraft).
 
-**0** versions archived · Latest: [`v3.0.1`](https://github.com/flarchive/nearata-flarum-ext-auth-minecraft/tree/archive/v3.0.1) · License: `Unlicense` · Flarum: `^1.0`
+**4** versions archived · Latest: [`v3.0.1`](https://github.com/flarchive/nearata-flarum-ext-auth-minecraft/tree/archive/v3.0.1) · License: `Unlicense` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-05-16 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-auth-minecraft/tree/archive/v1.0.0) |
+| `v2.0.0` | 2021-06-20 | `^1.0.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-auth-minecraft/tree/archive/v2.0.0) |
+| `v3.0.0` | 2022-09-13 | `^1.0.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-auth-minecraft/tree/archive/v3.0.0) |
+| `v3.0.1` | 2022-09-13 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-auth-minecraft/tree/archive/v3.0.1) |
 
 Catalog entry: [packages/nearata-flarum-ext-auth-minecraft.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-auth-minecraft.json)
 
